@@ -39,7 +39,7 @@ email_input.send_keys(email_id)
 time.sleep(random.uniform(2, 5))
 password_input.send_keys(password)
 password_input.submit()
-time.sleep(random.uniform(4, 8)) # ipova
+time.sleep(random.uniform(4, 8))
 
 # Navigate to "My Network"
 try:
@@ -110,7 +110,6 @@ for link in profile_links:
         profile_data["headline"] = title
     except:
         title = "Not found"
-    print(title)
 
     try:
         see_more_button = WebDriverWait(driver, 10).until(
@@ -129,8 +128,7 @@ for link in profile_links:
     except:
         profile_data["about"] = "Not Available"
 
-    print(f"Profile: {profile_name}")
-    print(f"title: {title}")
+
 
     # Extract Experience Details
 
@@ -171,11 +169,9 @@ for link in profile_links:
                             target_sec = skill_soup.find('ul').find('li').find('ul').find_all("li")  # step 1
                             for section in target_sec:
                                 skill_text = section.find('span', class_='visually-hidden').text.strip()  # step 2
-                                print(skill_text)
                                 if skill_text:
                                     extracted_skills.append(skill_text)
 
-                            print(f"Extracted skills for {designation}: {extracted_skills}")  # Debugging
 
                         # Append experience only if extraction is successful
                         profile_data["experience"].append({
@@ -199,15 +195,12 @@ for link in profile_links:
                         course_name = edu.find("span", class_="t-14 t-normal") \
                             .find_next("span", {"aria-hidden": "true"}).text.strip().split(" · ")[0]
                         course_duration = edu.find("span", class_="pvs-entity__caption-wrapper").text.strip()
-                        print('edc_name==>', edc_name)
-                        print('course_name==>', course_name)
-                        print('course_duration==>', course_duration)
+
                         profile_data["education"].append({
                             "institution": edc_name,
                             "course": course_name,
                             "duration": course_duration
                         })
-                        # print(profile_data)
                     except Exception as e:
                         print(f"Error extracting experience entry: {e}")  # Debugging
 
