@@ -1,0 +1,490 @@
+[
+    {
+        "profile_url": "https://www.linkedin.com/in/vetrivelan-ananya-46a631340/",
+        "experience": [],
+        "education": [],
+        "name": "Vetrivelan Ananya",
+        "headline": "Data Engineer at Tata Group",
+        "about": "Not Available",
+        "email": "uoffice827@gmail.com"
+    },
+    {
+        "profile_url": "https://www.linkedin.com/in/murugesan-m-551180220/",
+        "experience": [
+            {
+                "designation": "Data Acquisition Engineer",
+                "company_name": "Gravity AI",
+                "duration": "Jun 2023 - Present · 1 yr 10 mos",
+                "skills": [
+                    "Project Handling",
+                    "Problem Solving",
+                    "Analytical Skills",
+                    "Python (Programming Language)",
+                    "Web Scraping",
+                    "Beautiful Soup",
+                    "Selenium",
+                    "Extract, Transform, Load (ETL)",
+                    "PostgreSQL",
+                    "Pandas & MatPlot Lib"
+                ]
+            },
+            {
+                "designation": "Data extracting engineer",
+                "company_name": "TJ GREEN ENERGY R&D PRIVATE LIMITED",
+                "duration": "Jan 2022 - Feb 2023 · 1 yr 2 mos",
+                "skills": [
+                    "Beautiful Soup",
+                    "Python"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "institution": "RVS Educational Trust's Group of Institutions",
+                "course": "Bachelor of Science - BS, Information Technology",
+                "duration": "2018 - 2021"
+            }
+        ],
+        "name": "Murugesan M",
+        "headline": "Data Acquisition Engineer | Python & ETL | PostgreSQL | Selenium",
+        "about": "Not Available",
+        "email": "murugesanrvs64@gmail.com"
+    },
+    {
+        "profile_url": "https://www.linkedin.com/in/harsha-bsh-shivakumar-86877b344/",
+        "experience": [
+            {
+                "designation": "Senior Web Scraping Engineer",
+                "company_name": "Infiniti Research Ltd.",
+                "duration": "Jan 2023 - Present · 2 yrs 3 mos",
+                "skills": []
+            },
+            {
+                "designation": "Senior Software Engineer",
+                "company_name": "Quantzig",
+                "duration": "Jan 2023 - Jan 2025 · 2 yrs 1 mo",
+                "skills": []
+            }
+        ],
+        "education": [
+            {
+                "institution": "Visvesvaraya Technological University (VTU)",
+                "course": "Master of Computer Applications - MCA, Computer Science",
+                "duration": "Sep 2017 - Sep 2019"
+            }
+        ],
+        "name": "Harsha BSH Shivakumar",
+        "headline": "Senior Software Engineer at Infiniti Research Ltd.",
+        "about": "Not Available",
+        "email": "shivakumarbshharsha@gmail.com",
+        "phone": "8892085086"
+    },
+    {
+        "profile_url": "https://www.linkedin.com/in/vijay-prathap-066b90192/",
+        "experience": [
+            {
+                "designation": "Technical Advisor",
+                "company_name": "Genpixels",
+                "duration": "Jan 2021 - Present · 4 yrs 3 mos",
+                "skills": []
+            },
+            {
+                "designation": "Full Stack Engineer",
+                "company_name": "SpiritDigiX",
+                "duration": "Jul 2021 - Present · 3 yrs 9 mos",
+                "skills": [
+                    "Azure Functions",
+                    "React.js",
+                    "Python (Programming Language)",
+                    "Azure Databricks",
+                    "Azure Cosmos DB",
+                    "Selenium WebDriver",
+                    "Next.js",
+                    "TypeScript",
+                    "Jest test",
+                    "Software Project Management",
+                    "Microsoft Azure"
+                ]
+            },
+            {
+                "designation": "Full Stack Engineer",
+                "company_name": "Shore Group Associates",
+                "duration": "Apr 2023 - Jan 2025 · 1 yr 10 mos",
+                "skills": [
+                    "React.js",
+                    "Python (Programming Language)",
+                    "Selenium WebDriver",
+                    "Next.js",
+                    "TypeScript"
+                ]
+            },
+            {
+                "designation": "Senior Software Engineer",
+                "company_name": "Jana Analysis Private Limited",
+                "duration": "Jul 2021 - Nov 2023 · 2 yrs 5 mos",
+                "skills": [
+                    "Azure Functions",
+                    "React.js",
+                    "Node.js",
+                    "ADA Compliance",
+                    "Software Project Management"
+                ]
+            },
+            {
+                "designation": "Software Engineer",
+                "company_name": "COREZI",
+                "duration": "Aug 2019 - Jul 2021 · 2 yrs",
+                "skills": [
+                    "React.js",
+                    "Node.js",
+                    "Material-UI",
+                    "AWS Elastic Beanstalk",
+                    "AWS Lambda",
+                    "AWS CloudFormation",
+                    "Software Project Management",
+                    "Jest"
+                ]
+            }
+        ],
+        "education": [],
+        "name": "Vijay prathap",
+        "headline": "Technical Advisor",
+        "about": "As a certified Azure 204 Full Stack Developer with over 7 years of experience, I specialize in creating dynamic and efficient web applications using technologies like Angular, React, Next.js, Node.js, Python, and Azure. Currently, I am a Full Stack Developer at Sprit Digix, where I lead UI architecture and ensure seamless integration and smooth user experiences.\n\nMy role involves not just coding but also mentoring and guiding my team through complex challenges, fostering collaboration, and driving innovation. I am passionate about leveraging my technical skills and leadership abilities to build scalable and robust applications that meet both business and user needs.\n\nIn my career, I have consistently delivered high-quality solutions, streamlined processes, and improved project outcomes. I thrive in dynamic environments and am always eager to learn and adopt new technologies and methodologies to stay ahead in the fast-evolving tech landscape."
+    },
+    {
+        "profile_url": "https://www.linkedin.com/in/hardeep-singh-a22087243/",
+        "experience": [
+            {
+                "designation": "Python Developer |  Machine learning",
+                "company_name": "Alluring Infotech Solutions",
+                "duration": "Aug 2023 - Present · 1 yr 8 mos",
+                "skills": []
+            },
+            {
+                "designation": "Python Developer",
+                "company_name": "Fresher Jobs",
+                "duration": "Feb 2022 - May 2024 · 2 yrs 4 mos",
+                "skills": [
+                    "Python (Programming Language)",
+                    "Tkinter",
+                    "Django"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "institution": "Govt. Mohindra college patiala",
+                "course": "Bachelor of Arts - BA, Art/Art Studies, General",
+                "duration": "2016 - 2020"
+            }
+        ],
+        "name": "Hardeep Singh",
+        "headline": "Python developer | Alluring Infotech Solutions Hiring python fresher candidates",
+        "about": "Not Available",
+        "email": "deep805460@gmail.com"
+    },
+    {
+        "profile_url": "https://www.linkedin.com/in/divya-meenakshi-kumar-0a62a21b2/",
+        "experience": [
+            {
+                "designation": "Operations Executive",
+                "company_name": "Infosys",
+                "duration": "Dec 2020 - Sep 2022 · 1 yr 10 mos",
+                "skills": [
+                    "Selenium Testing",
+                    "JavaScript",
+                    "Hibernate",
+                    "Java",
+                    "Selenium WebDriver"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "institution": "University of Madras",
+                "course": "Master of Computer Applications - MCA",
+                "duration": "Oct 2022 - Oct 2024"
+            },
+            {
+                "institution": "Ethiraj College For Women",
+                "course": "BCA, computer applications",
+                "duration": "2017 - 2020"
+            }
+        ],
+        "name": "Divya Meenakshi Kumar",
+        "headline": "Business Development and HR specialist",
+        "about": "Not Available",
+        "email": "divimeenu24@gmail.com"
+    },
+    {
+        "profile_url": "https://www.linkedin.com/in/srijani-biswas-650904151/",
+        "experience": [
+            {
+                "designation": "Human Resources Executive",
+                "company_name": "BridgeIT2Biz",
+                "duration": "Oct 2017 - Present · 7 yrs 6 mos",
+                "skills": []
+            }
+        ],
+        "education": [],
+        "name": "Srijani Biswas",
+        "headline": "Human Resources Executive at BridgeIT2Biz",
+        "about": "Passionate about work \n\nCurrent job options - check it out !\nhttps://bit2b.co.in/careers%40bit2b\nPassionate about work Current job options - check it out ! https://bit2b.co.in/careers%40bit2b",
+        "email": "hr@bit2b.co.in"
+    },
+    {
+        "profile_url": "https://www.linkedin.com/in/mykola-hryhoriev/",
+        "experience": [
+            {
+                "designation": "Software Engineer",
+                "company_name": "Eagle Eye Networks",
+                "duration": "Sep 2023 - Present · 1 yr 7 mos",
+                "skills": [
+                    "Software Development",
+                    "RDBMS",
+                    "Microservices",
+                    "Python (Programming Language)",
+                    "Kubernetes",
+                    "Amazon S3",
+                    "pulsar",
+                    "Grafana",
+                    "Software Infrastructure",
+                    "Program Creation",
+                    "Engineering",
+                    "Internet Software"
+                ]
+            },
+            {
+                "designation": "Senior Python Developer",
+                "company_name": "Prosperity",
+                "duration": "Mar 2023 - Sep 2023 · 7 mos",
+                "skills": [
+                    "Google Cloud Platform (GCP)",
+                    "Django REST Framework",
+                    "Amazon Web Services (AWS)",
+                    "Hiring Practices",
+                    "Application Development",
+                    "Grafana",
+                    "Software Development",
+                    "Elastic Stack (ELK)",
+                    "API Development",
+                    "Django",
+                    "Database Management System (DBMS)",
+                    "Redis",
+                    "Web Framework",
+                    "Professional Mentoring",
+                    "RDBMS",
+                    "Microservices",
+                    "Representational State Transfer (REST)",
+                    "Python (Programming Language)",
+                    "telegraf",
+                    "Agile Development",
+                    "Task Management",
+                    "Kubernetes",
+                    "Amazon S3",
+                    "Flask",
+                    "PostgreSQL"
+                ]
+            },
+            {
+                "designation": "Python Developer",
+                "company_name": "DataArt",
+                "duration": "Jun 2021 - Mar 2023 · 1 yr 10 mos",
+                "skills": [
+                    "Amazon Web Services (AWS)",
+                    "Application Development",
+                    "Datadog",
+                    "Jenkins",
+                    "Software Development",
+                    "Terraform",
+                    "API Development",
+                    "Database Management System (DBMS)",
+                    "Web Framework",
+                    "RDBMS",
+                    "Representational State Transfer (REST)",
+                    "Python (Programming Language)",
+                    "Agile Development",
+                    "Neo4j",
+                    "Amazon S3",
+                    "Apache Kafka",
+                    "Snowflake"
+                ]
+            },
+            {
+                "designation": "Python Developer",
+                "company_name": "Prosperity Software",
+                "duration": "Jun 2019 - Jun 2021 · 2 yrs 1 mo",
+                "skills": [
+                    "Bash",
+                    "Django REST Framework",
+                    "Amazon Web Services (AWS)",
+                    "API Development",
+                    "Databases",
+                    "pytest",
+                    "RDBMS",
+                    "Python (Programming Language)",
+                    "Celery",
+                    "Amazon S3"
+                ]
+            },
+            {
+                "designation": "Software Developer",
+                "company_name": "ESKA",
+                "duration": "May 2017 - Jun 2019 · 2 yrs 2 mos",
+                "skills": [
+                    "SQL",
+                    "Django REST Framework",
+                    "Docker Products",
+                    "API Development",
+                    "pytest",
+                    "RDBMS",
+                    "Nginx",
+                    "Amazon EC2",
+                    "Python (Programming Language)",
+                    "Celery"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "institution": "Kyiv National Economics University",
+                "course": "Master's degree, Economic Cybernetics",
+                "duration": "2009 - 2014"
+            }
+        ],
+        "name": "Mykola (Nick) Hryhoriev🇺🇦",
+        "headline": "Python Software Engineer | Expert in Django & Web Scraping | Skilled in DevOps, CI/CD, AWS, GCP, Azure | Asynchronous Programming & API Development",
+        "about": "Experienced with modern Python Programming Language frameworks (DRF, Django) in the backend. Good problem solving skills and a high attention to details. Interested in distributed computing and Big Data. Open Source is important for me, and also my personal life, especially as it supports my hobby and improves my technical knowledge. \nExperienced with modern Python Programming Language frameworks (DRF, Django) in the backend. Good problem solving skills and a high attention to details. Interested in distributed computing and Big Data. Open Source is important for me, and also my personal life, especially as it supports my hobby and improves my technical knowledge.",
+        "email": "nickhryhoriev@gmail.com"
+    },
+    {
+        "profile_url": "https://www.linkedin.com/in/shanmugasundaram-rajendran-4aa00b210/",
+        "experience": [
+            {
+                "designation": "RPA Developer | Python Web Scraping Developer",
+                "company_name": "FocusR Consultancy and Technologies Pvt. ltd",
+                "duration": "Sep 2023 - Present · 1 yr 7 mos",
+                "skills": [
+                    "C#",
+                    "Java",
+                    "Spring Boot",
+                    "MySQL",
+                    "Robotic Process Automation (RPA)",
+                    "UiPath",
+                    "Object-Oriented Programming (OOP)",
+                    "Python (Programming Language)",
+                    "DevOps",
+                    "linodes",
+                    "gitea",
+                    "ci/cd",
+                    "docker",
+                    "Selenium WebDriver",
+                    "Web Scraping",
+                    "pandas",
+                    "Azure Functions"
+                ]
+            },
+            {
+                "designation": "Technical Recruiter",
+                "company_name": "VDart",
+                "duration": "Aug 2022 - Apr 2023 · 9 mos",
+                "skills": [
+                    "Hiring",
+                    "Recruiting"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "institution": "Saranathan College of Engineering",
+                "course": "Bachelor of Engineering - BE, Electrical, Electronics and Communications Engineering",
+                "duration": "Jun 2022"
+            },
+            {
+                "institution": "Sowdambikaa Matric Higher Secondary School",
+                "course": "HSC, Computer Science",
+                "duration": "Jun 2017"
+            }
+        ],
+        "name": "Shanmugasundaram Rajendran",
+        "headline": "RPA Developer | UiPath | Python Web Scraping | Crawling",
+        "about": "Not Available",
+        "email": "shan231999@gmail.com"
+    },
+    {
+        "profile_url": "https://www.linkedin.com/in/tejas-patni/",
+        "experience": [
+            {
+                "designation": "LLM-Python Developer",
+                "company_name": "Turing",
+                "duration": "Sep 2024 - Present · 7 mos",
+                "skills": []
+            },
+            {
+                "designation": "Python/ML Developer",
+                "company_name": "AC Agarwal",
+                "duration": "May 2023 - Nov 2024 · 1 yr 7 mos",
+                "skills": [
+                    "NumPy",
+                    "Data Analytics",
+                    "Debugging",
+                    "Mathematical Modeling",
+                    "F&O Trading",
+                    "Modeling",
+                    "Predictive Analytics",
+                    "Statistical Data Analysis",
+                    "Python (Programming Language)",
+                    "Data Modeling",
+                    "Pandas",
+                    "Mathematics",
+                    "Machine Learning"
+                ]
+            },
+            {
+                "designation": "Data Analyst",
+                "company_name": "The Hiring Company",
+                "duration": "Sep 2021 - Dec 2022 · 1 yr 4 mos",
+                "skills": [
+                    "Microsoft Excel",
+                    "Debugging",
+                    "Mathematical Modeling",
+                    "Tableau",
+                    "Modeling",
+                    "Predictive Analytics",
+                    "Statistical Data Analysis",
+                    "Python (Programming Language)",
+                    "Machine Learning"
+                ]
+            },
+            {
+                "designation": "Software QA Engineer",
+                "company_name": "Broadcom Inc.",
+                "duration": "Jun 2018 - Aug 2020 · 2 yrs 3 mos",
+                "skills": [
+                    "Manual Testing",
+                    "Debugging",
+                    "Regression Testing",
+                    "Python (Programming Language)",
+                    "Software Testing",
+                    "Software Quality Assurance"
+                ]
+            }
+        ],
+        "education": [
+            {
+                "institution": "Indian Institute of Technology, Kanpur",
+                "course": "Master's degree, Artificial Intelligence and Machine Learning",
+                "duration": "Jan 2024 - Jan 2025"
+            },
+            {
+                "institution": "SRM IST Chennai",
+                "course": "Bachelor's degree, Electronics and Communications Engineering",
+                "duration": "2014 - 2018"
+            }
+        ],
+        "name": "Tejas Patni",
+        "headline": "LLM-Python Developer@ Turing | Python | Artificial Intelligence | Machine Learning | Deep Learning | IIT-K | Ex-Broadcom | Ex-ACA",
+        "about": "I am a dedicated and results-driven professional specializing in artificial intelligence and machine learning. Currently, I am pursuing a Master’s in AI and ML from IIT Kanpur, where I am advancing my expertise and staying at the forefront of technological advancements in this field.\n\nWith over a year of experience as a Data Analyst in a dynamic hiring company, I have effectively utilized Python, SQL, and machine learning techniques to extract valuable insights from complex datasets. This experience has sharpened my skills in predictive modeling and algorithm development, allowing me to make significant contributions to AI-driven decision-making processes.\n\nIn my current role as a Python and Machine Learning Developer at a leading stock broking firm, I apply my deep domain knowledge in finance and the stock market to develop innovative AI solutions that drive business success. My background in Electronics and Communication Engineering from SRM University, coupled with more than two years of experience as a QA Software Engineer in the semiconductor industry, provides me with a robust technical foundation and strong analytical capabilities.\n\nI am passionate about applying AI and ML strategies to solve real-world problems and drive technological advancement. My excellent communication skills and analytical mindset enable me to effectively convey complex concepts and contribute to the success of AI and ML projects. I am eager to bring my expertise to organizations looking to harness the power of AI and ML for transformative solutions and predictive modeling.",
+        "email": "tejas.patni21@gmail.com"
+    }
+]
