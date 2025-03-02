@@ -1,21 +1,20 @@
 import warnings, random, json, re
 import time
-import os
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from dotenv import load_dotenv
 from bs4 import BeautifulSoup
 
 # Ignore warnings
 warnings.filterwarnings("ignore")
 
-# Load environment variables
-load_dotenv()
-email_id = os.getenv("EMAIL")
-password = os.getenv("PASSWORD")
+
+with open("config.json", "r") as config_file:
+    config = json.load(config_file)
+email_id = config.get("EMAIL")
+password = config.get("PASSWORD")
 
 
 # Chrome options
